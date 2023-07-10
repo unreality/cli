@@ -28,7 +28,7 @@ require (
 	go.step.sm/crypto v0.32.2
 	go.step.sm/linkedca v0.19.1
 	golang.org/x/crypto v0.11.0
-	golang.org/x/net v0.11.0
+	golang.org/x/net v0.12.0
 	golang.org/x/sys v0.10.0
 	golang.org/x/term v0.10.0
 	google.golang.org/protobuf v1.31.0
