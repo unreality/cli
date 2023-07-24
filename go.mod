@@ -26,7 +26,7 @@ require (
 	go.mozilla.org/pkcs7 v0.0.0-20210826202110-33d05740a352
 	go.step.sm/cli-utils v0.7.6
 	go.step.sm/crypto v0.32.4
-	go.step.sm/linkedca v0.19.1
+	go.step.sm/linkedca v0.20.0
 	golang.org/x/crypto v0.11.0
 	golang.org/x/net v0.12.0
 	golang.org/x/sys v0.10.0
@@ -128,7 +128,7 @@ require (
 	google.golang.org/genproto v0.0.0-20230530153820-e85fd2cbaebc // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230530153820-e85fd2cbaebc // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230629202037-9506855d4529 // indirect
-	google.golang.org/grpc v1.56.1 // indirect
+	google.golang.org/grpc v1.56.2 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	howett.net/plist v1.0.0 // indirect
