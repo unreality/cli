@@ -14,7 +14,7 @@ require (
 	github.com/pquerna/otp v1.4.0
 	github.com/samfoo/ansi v0.0.0-20160124022901-b6bd2ded7189
 	github.com/shurcooL/sanitized_anchor_name v1.0.0
-	github.com/slackhq/nebula v1.8.0
+	github.com/slackhq/nebula v1.8.1
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
 	github.com/smallstep/certificates v0.25.2
 	github.com/smallstep/certinfo v1.12.0
@@ -27,7 +27,7 @@ require (
 	go.step.sm/cli-utils v0.8.0
 	go.step.sm/crypto v0.40.0
 	go.step.sm/linkedca v0.20.1
-	golang.org/x/crypto v0.16.0
+	golang.org/x/crypto v0.17.0
 	golang.org/x/net v0.19.0
 	golang.org/x/sys v0.15.0
 	golang.org/x/term v0.15.0
