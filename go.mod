@@ -14,7 +14,7 @@ require (
 	github.com/pquerna/otp v1.4.0
 	github.com/samfoo/ansi v0.0.0-20160124022901-b6bd2ded7189
 	github.com/shurcooL/sanitized_anchor_name v1.0.0
-	github.com/slackhq/nebula v1.8.1
+	github.com/slackhq/nebula v1.8.2
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
 	github.com/smallstep/certificates v0.25.2
 	github.com/smallstep/certinfo v1.12.1
