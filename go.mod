@@ -14,7 +14,7 @@ require (
 	github.com/pquerna/otp v1.4.0
 	github.com/samfoo/ansi v0.0.0-20160124022901-b6bd2ded7189
 	github.com/shurcooL/sanitized_anchor_name v1.0.0
-	github.com/slackhq/nebula v1.8.2
+	github.com/slackhq/nebula v1.9.0
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
 	github.com/smallstep/certificates v0.26.1
 	github.com/smallstep/certinfo v1.12.2
@@ -28,10 +28,10 @@ require (
 	go.step.sm/crypto v0.44.8
 	go.step.sm/linkedca v0.20.1
 	golang.org/x/crypto v0.23.0
-	golang.org/x/net v0.24.0
+	golang.org/x/net v0.25.0
 	golang.org/x/sys v0.20.0
 	golang.org/x/term v0.20.0
-	google.golang.org/protobuf v1.34.0
+	google.golang.org/protobuf v1.34.1
 	gopkg.in/square/go-jose.v2 v2.6.0
 	software.sslmate.com/src/go-pkcs12 v0.4.0
 )
@@ -136,7 +136,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.24.0 // indirect
 	golang.org/x/exp v0.0.0-20240318143956-a85f2c67cd81 // indirect
 	golang.org/x/oauth2 v0.19.0 // indirect
-	golang.org/x/sync v0.6.0 // indirect
+	golang.org/x/sync v0.7.0 // indirect
 	golang.org/x/text v0.15.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	google.golang.org/api v0.176.0 // indirect
