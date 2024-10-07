@@ -27,10 +27,10 @@ require (
 	go.step.sm/cli-utils v0.9.0
 	go.step.sm/crypto v0.53.0
 	go.step.sm/linkedca v0.22.1
-	golang.org/x/crypto v0.27.0
+	golang.org/x/crypto v0.28.0
 	golang.org/x/net v0.29.0
 	golang.org/x/sys v0.26.0
-	golang.org/x/term v0.24.0
+	golang.org/x/term v0.25.0
 	google.golang.org/protobuf v1.35.1
 	gopkg.in/square/go-jose.v2 v2.6.0
 	software.sslmate.com/src/go-pkcs12 v0.5.0
@@ -133,7 +133,7 @@ require (
 	golang.org/x/exp v0.0.0-20240318143956-a85f2c67cd81 // indirect
 	golang.org/x/oauth2 v0.23.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
-	golang.org/x/text v0.18.0 // indirect
+	golang.org/x/text v0.19.0 // indirect
 	golang.org/x/time v0.6.0 // indirect
 	google.golang.org/api v0.198.0 // indirect
 	google.golang.org/genproto v0.0.0-20240903143218-8af14fe29dc1 // indirect
