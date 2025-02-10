@@ -31,7 +31,7 @@ require (
 	golang.org/x/net v0.34.0
 	golang.org/x/sys v0.30.0
 	golang.org/x/term v0.29.0
-	google.golang.org/protobuf v1.36.4
+	google.golang.org/protobuf v1.36.5
 	gopkg.in/square/go-jose.v2 v2.6.0
 	software.sslmate.com/src/go-pkcs12 v0.5.0
 )
