@@ -17,7 +17,7 @@ require (
 	github.com/slackhq/nebula v1.9.5
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
 	github.com/smallstep/certificates v0.28.3
-	github.com/smallstep/certinfo v1.13.0
+	github.com/smallstep/certinfo v1.14.0
 	github.com/smallstep/truststore v0.13.0
 	github.com/smallstep/zcrypto v0.0.0-20210924233136-66c2600f6e71
 	github.com/smallstep/zlint v0.0.0-20180727184541-d84eaafe274f
@@ -84,7 +84,7 @@ require (
 	github.com/golang/glog v1.2.4 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
-	github.com/google/certificate-transparency-go v1.2.2 // indirect
+	github.com/google/certificate-transparency-go v1.3.1 // indirect
 	github.com/google/go-tpm v0.9.3 // indirect
 	github.com/google/go-tspi v0.3.0 // indirect
 	github.com/google/s2a-go v0.1.9 // indirect
@@ -92,9 +92,9 @@ require (
 	github.com/googleapis/gax-go/v2 v2.14.1 // indirect
 	github.com/huandu/xstrings v1.5.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
-	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
-	github.com/jackc/pgx/v5 v5.6.0 // indirect
-	github.com/jackc/puddle/v2 v2.2.1 // indirect
+	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
+	github.com/jackc/pgx/v5 v5.7.2 // indirect
+	github.com/jackc/puddle/v2 v2.2.2 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/kr/pty v1.1.8 // indirect
