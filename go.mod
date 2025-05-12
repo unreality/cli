@@ -1,6 +1,6 @@
 module github.com/smallstep/cli
 
-go 1.18
+go 1.23.6
 
 require (
 	github.com/Microsoft/go-winio v0.6.2
@@ -30,7 +30,7 @@ require (
 	golang.org/x/crypto v0.37.0
 	golang.org/x/net v0.39.0
 	golang.org/x/sys v0.33.0
-	golang.org/x/term v0.31.0
+	golang.org/x/term v0.32.0
 	google.golang.org/protobuf v1.36.6
 	gopkg.in/square/go-jose.v2 v2.6.0
 	software.sslmate.com/src/go-pkcs12 v0.5.0
